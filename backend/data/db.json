@@ -1,0 +1,172 @@
+{
+  "users": [
+    {
+      "id": "user_1",
+      "username": "rishabh",
+      "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+      "email": "rishabh@example.com",
+      "monthlyAllowance": 50000,
+      "createdAt": "2026-07-18T11:15:21.208Z"
+    },
+    {
+      "id": "user_1784454966909",
+      "username": "Rishabh Singh",
+      "password": "cd3a0a2ad5b34cd55ea73ac47b45f42ea7fab3bee3543957afe9a0e6cda5452c",
+      "email": "boathead8877@gmail.com",
+      "monthlyAllowance": 30000,
+      "createdAt": "2026-07-19T09:56:06.909Z"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tx_1784431213576_zqjs0",
+      "userId": "user_1",
+      "description": "Golgapa",
+      "amount": 20,
+      "category": "Other",
+      "date": "2026-07-19",
+      "type": "expense",
+      "source": "nlp",
+      "createdAt": "2026-07-19T03:20:13.576Z"
+    },
+    {
+      "id": "tx_1784431432129_d8jt0",
+      "userId": "user_1",
+      "description": "Maggie",
+      "amount": 20,
+      "category": "Food/Beverage",
+      "date": "2026-07-19",
+      "type": "expense",
+      "source": "nlp",
+      "createdAt": "2026-07-19T03:23:52.129Z"
+    },
+    {
+      "id": "tx_1784431481057_zkp0w",
+      "userId": "user_1",
+      "description": "habdeasade |) 5 rai",
+      "amount": 506,
+      "category": "Food/Beverage",
+      "date": "2018-10-18",
+      "type": "expense",
+      "source": "ocr",
+      "createdAt": "2026-07-19T03:24:41.057Z"
+    },
+    {
+      "id": "tx_1784431721632_nvswt",
+      "userId": "user_1",
+      "description": "Food Bill",
+      "amount": 6,
+      "category": "Food/Beverage",
+      "date": "2026-07-19",
+      "type": "expense",
+      "source": "ocr",
+      "createdAt": "2026-07-19T03:28:41.632Z"
+    },
+    {
+      "id": "tx_1784432163773_ax3b1",
+      "userId": "user_1",
+      "description": "Food Bill",
+      "amount": 840,
+      "category": "Food/Beverage",
+      "date": "2026-07-19",
+      "type": "expense",
+      "source": "ocr",
+      "createdAt": "2026-07-19T03:36:03.774Z"
+    },
+    {
+      "id": "tx_1784432660729_dkfvo",
+      "userId": "user_1",
+      "description": "Shirt",
+      "amount": 500,
+      "category": "Shopping",
+      "date": "2026-07-19",
+      "type": "expense",
+      "source": "nlp",
+      "createdAt": "2026-07-19T03:44:20.730Z"
+    },
+    {
+      "id": "tx_1784432704243_j55b3",
+      "userId": "user_1",
+      "description": "Stocks",
+      "amount": 10000,
+      "category": "Income",
+      "date": "2026-07-19",
+      "type": "income",
+      "source": "manual",
+      "createdAt": "2026-07-19T03:45:04.243Z"
+    },
+    {
+      "id": "tx_1784454702855_x93u2",
+      "userId": "user_1",
+      "description": "Food Bill",
+      "amount": 840,
+      "category": "Food/Beverage",
+      "date": "2026-07-19",
+      "type": "expense",
+      "source": "ocr",
+      "createdAt": "2026-07-19T09:51:42.855Z"
+    }
+  ],
+  "budgets": [
+    {
+      "userId": "user_1",
+      "category": "Food/Beverage",
+      "limit": 8000
+    },
+    {
+      "userId": "user_1",
+      "category": "Transport",
+      "limit": 5000
+    },
+    {
+      "userId": "user_1",
+      "category": "Utilities",
+      "limit": 12000
+    },
+    {
+      "userId": "user_1",
+      "category": "Entertainment",
+      "limit": 4000
+    },
+    {
+      "userId": "user_1",
+      "category": "Shopping",
+      "limit": 10000
+    },
+    {
+      "userId": "user_1",
+      "category": "Other",
+      "limit": 5000
+    },
+    {
+      "userId": "user_1784454966909",
+      "category": "Food/Beverage",
+      "limit": 50000
+    },
+    {
+      "userId": "user_1784454966909",
+      "category": "Transport",
+      "limit": 5000
+    },
+    {
+      "userId": "user_1784454966909",
+      "category": "Utilities",
+      "limit": 5000
+    },
+    {
+      "userId": "user_1784454966909",
+      "category": "Entertainment",
+      "limit": 5000
+    },
+    {
+      "userId": "user_1784454966909",
+      "category": "Shopping",
+      "limit": 5000
+    },
+    {
+      "userId": "user_1784454966909",
+      "category": "Other",
+      "limit": 5000
+    }
+  ]
+}
