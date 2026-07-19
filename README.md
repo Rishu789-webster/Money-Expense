@@ -1,6 +1,6 @@
 #  Expense Tracker 
 
-Aura is a full-stack, AI-powered expense intelligence tracker designed to showcase advanced software engineering principles. It integrates authentication, browser-side OCR, hybrid NLP extraction, statistical anomaly detection, and linear regression-based forecasting.
+It is a full-stack, AI-powered expense intelligence tracker designed to showcase advanced software engineering principles. It integrates authentication, browser-side OCR, hybrid NLP extraction, statistical anomaly detection, and linear regression-based forecasting.
 
 ---
 
